@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VvDckxXQXWnbiCpQpDoyAZkAi0hy6ME+jDuZzNFXA8z84mviXUoTtZfqO5To70pQQq+kCRRwsa9Oz3LRodl8PQ==",
+  "dgSpecHash": "2JN8j/yWrURpmat6C17YXRmMLJiE5OZ6k9Ti4eyCnq0ZNTZaMlrY3EJ3RqtyZGUyrFPAZUjLzqBhfEG0atQy6A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fevzi\\Desktop\\QuartzIntro\\1\\QuartzExamples\\QuartzExamples\\QuartzExamples.csproj",
   "expectedPackageFiles": [
@@ -22,11 +22,7 @@
     "C:\\Users\\Fevzi\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "C:\\Users\\Fevzi\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\Fevzi\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\Fevzi\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\Fevzi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
-    "C:\\Users\\Fevzi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Fevzi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Fevzi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Fevzi\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
